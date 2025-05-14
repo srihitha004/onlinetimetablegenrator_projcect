@@ -1,1 +1,1 @@
-# onlinetimetablegenrator_projcect
+# onlinetimetablegenrator_project
